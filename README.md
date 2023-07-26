@@ -4,4 +4,4 @@ group members:
 1) Starla Halliday
 2) Yemi
 3) Amberlie 
-4) Moussa 
+4) Moussa Diop
