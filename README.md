@@ -72,7 +72,7 @@ Four questions were identified to analyze the data. Graphs were generated to pro
 
 **Conclusion**
 
-Based on the data analyzed, there is a change in U.S. Government Drugs & Biologicals spending in minority-owned pharmaceutical & medicine manufacturing businesses between FY20-FY22. This conclusion was drawn based on use of the paired T-Test. The vaiables used were the contract amount awarded and fiscal year. The T-Test returned a P Value well below the 0.05 threshold (4.236811439575075e-15) allowing for the conclusion that the null hypothesis may be reuected and the results are not by chance. 
+Based on the data analyzed, there is a change in U.S. Government Drugs & Biologicals spending in minority-owned pharmaceutical & medicine manufacturing businesses between FY20-FY22. This conclusion was drawn based on use of the paired T-Test. The vaiables used were the contract amount awarded and fiscal year. The T-Test returned a P Value well below the 0.05 threshold (4.236811439575075e-15) allowing for the conclusion that the null hypothesis may be rejected and the results are not by chance. 
 
 Further research and analysis are required to support the hypothesis conclusion. This research may include additional filtering of the USASpending dataset to focus on minority-owned organizations by category (Asian-Pacific-American Owned, Black-American Owned, Hispanic American Owned, Native-American Owned, Women-Owned). An analysis on small business data in comparison to large or non-small businesses may also provide additional insight into government spending. With that research on for-profit versus non-profit business may also provide additional insight.
 ________________________________________________
