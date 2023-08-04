@@ -51,20 +51,28 @@ Four questions were identified to analyze the data. Graphs were generated to pro
 1. How many contracts & how much funding was awarded to minority-owned pharmaceutical & manufacturing organizations during FY2020 – FY2022?
    ![image](https://github.com/MoussaED/Project-1-repo/assets/133922704/180de008-194c-4773-96d1-30cb7c8fd722)
 
+The graphs generated capture total award contracts and contract award amounts by fiscal year. Based on analysis, one may conclude that the number of contracts awarded does not correlate to the dollar value awarded. Additionally, there is a downward trend in contract award amount between FY20 and FY22. 
+
 3. Is there a spike in federal funding of minority-owned pharmaceutical & manufacturing organizations depending on the fiscal quarter/year?
 ![image](https://github.com/MoussaED/Project-1-repo/assets/133922704/a470735d-d5b3-4623-8a81-1fc871dada0c)
+
+The graphs generated provided capture contract award amount and timeline events based on COVID-19 Pandemic and COVID-19 US return to work effort. One can draw from the graphs that there is a spike in US government spending at the height of pandemic. There is also a smaller spike after the US President's State of the Union address announcing that it was time for the US workforce to return to work. 
 
 4. Which federal agencies awarded the most federal dollars to minority-owned pharmaceutical & manufacturing organizations?
 ![image](https://github.com/MoussaED/Project-1-repo/assets/133922704/b5071e28-a848-4146-8337-8798b240be49)
 
+In this pie chart, it is apparent that the Department of Veterans Affairs was the largest contributor at 64.4% of total contract dollars awarded during FY20-FY22. This can be somewhat attributed to the VA's effort to launch an outreach and engagement plan to assist in increasing interest in and competition of minority-owned firms for VA contracts in January 2021.
+
 5. Which U.S. states received the most # of contracts & funding?
 ![image](https://github.com/MoussaED/Project-1-repo/assets/133922704/b4e1f878-cfe7-4546-a241-29666194dae9)
+
+In the bar graphs generated the total contract and total contract award amount per state are reflected. Based on the data analysis, one may conclude that the amount of contracts awarded does not correlate with the total value award amount per state. Based on the available data, the spikes in contracts awarded to MI and dollar value awarded to MD may likely be attributed to wholesale pharmaceutical and biotec hub locations. Additionally, the contracts all have relation to COVID-19 based on contract description (i.e., docycycline, COVID-19 diagnostic tests).
 
 **Challenges**
 
 1. The raw dataset was extensive. There were over 1.4 million contract data points available for review. To address the depth and breadth, the dataset was reduced based on identified filters to assist in making the data more manageable in the time allotted for research and analysis. Additional research would be needed to further investigate the hypothesis.
 
-2. The API used was a POST API. Experience on the team was limited. The team was required to research and troubleshoot how to use a POST API request versus a GET API request. The team had to troubleshoot the coding to identify and clear issues. This challenge allowed fo the team to further develop their understanding of API coding and associated challenges.
+2. The API used was a POST API. Experience on the team was limited. The team was required to research and troubleshoot how to use a POST API request versus a GET API request. The team had to troubleshoot the coding to identify and clear issues. This challenge allowed for the team to further develop their understanding of API coding and associated challenges.
 
 3. There were several APIs available for use which posed a challenge in selection while avoiding scope creep via changing focus or priority sets. The sheer volume of data offered created a challenge in maintaining the project focus. The team selected an API that offered the datapoints needed to conduct initial research.
 
@@ -72,9 +80,9 @@ Four questions were identified to analyze the data. Graphs were generated to pro
 
 **Conclusion**
 
-Based on the data analyzed, there is a change in U.S. Government Drugs & Biologicals spending in minority-owned pharmaceutical & medicine manufacturing businesses between FY20-FY22. This conclusion was drawn based on use of the paired T-Test. The vaiables used were the contract amount awarded and fiscal year. The T-Test returned a P Value well below the 0.05 threshold (4.236811439575075e-15) allowing for the conclusion that the null hypothesis may be rejected and the results are not by chance. 
+Based on the data analyzed, there is a change in U.S. Government Drugs & Biologicals spending in minority-owned pharmaceutical & medicine manufacturing businesses between FY20-FY22. This conclusion was drawn based on use of the paired T-Test. The variables used were the contract amount awarded and fiscal year. The T-Test returned a P Value well below the 0.05 threshold (4.236811439575075e-15) allowing for the conclusion that the null hypothesis may be rejected and the results are not by chance. 
 
-Further research and analysis are required to support the hypothesis conclusion. This research may include additional filtering of the USASpending dataset to focus on minority-owned organizations by category (Asian-Pacific-American Owned, Black-American Owned, Hispanic American Owned, Native-American Owned, Women-Owned). An analysis on small business data in comparison to large or non-small businesses may also provide additional insight into government spending. With that research on for-profit versus non-profit business may also provide additional insight.
+The data analyzed is a sample; however, it may provide eligible minority-owned pharmaceutical & medicine manufacturing businesses insight into focus areas and likelihood of award amounts in their respective states. Overall, further research and analysis are required to support the hypothesis conclusion. This research may include additional filtering of the USASpending dataset to focus on minority-owned organizations by category (Asian-Pacific-American Owned, Black-American Owned, Hispanic American Owned, Native-American Owned, Women-Owned). An analysis on small business data in comparison to large or non-small businesses may also provide additional insight into government spending. With that research on for-profit versus non-profit business may also provide additional insight. An overall analysis of all non-minority contracts versus minority-owned organization contracts would also provide additional insight into likelihood of obtaining or winning a contract bid with the federal government. 
 ________________________________________________
 
 **References:**
