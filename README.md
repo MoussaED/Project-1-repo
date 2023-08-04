@@ -51,12 +51,12 @@ Four questions were identified to analyze the data. Graphs were generated to pro
 1. How many contracts & how much funding was awarded to minority-owned pharmaceutical & manufacturing organizations during FY2020 – FY2022?
    ![image](https://github.com/MoussaED/Project-1-repo/assets/133922704/180de008-194c-4773-96d1-30cb7c8fd722)
 
-The graphs generated capture total award contracts and contract award amounts by fiscal year. Based on analysis, one may conclude that the number of contracts awarded does not correlate to the dollar value awarded. Additionally, there is a downward trend in contract award amount between FY20 and FY22. 
+The graphs generated capture total award contracts and contract award amounts by fiscal year. Based on analysis, one may conclude that the number of contracts awarded does not correlate to the dollar value awarded. Additionally, there is a visible downward trend in contract award amount between FY20 and FY22. 
 
 3. Is there a spike in federal funding of minority-owned pharmaceutical & manufacturing organizations depending on the fiscal quarter/year?
 ![image](https://github.com/MoussaED/Project-1-repo/assets/133922704/a470735d-d5b3-4623-8a81-1fc871dada0c)
 
-The graphs generated provided capture contract award amount and timeline events based on COVID-19 Pandemic and COVID-19 US return to work effort. One can draw from the graphs that there is a spike in US government spending at the height of pandemic. There is also a smaller spike after the US President's State of the Union address announcing that it was time for the US workforce to return to work. 
+The graphs generated provided capture contract award amount and timeline events based on COVID-19 Pandemic and COVID-19 US return to work effort. One may draw from the graphs that there is a spike or pattern/trend in US government spending at the height of pandemic. There is also a smaller spike after the US President's State of the Union address announcing that it was time for the US workforce to return to work.  
 
 4. Which federal agencies awarded the most federal dollars to minority-owned pharmaceutical & manufacturing organizations?
 ![image](https://github.com/MoussaED/Project-1-repo/assets/133922704/b5071e28-a848-4146-8337-8798b240be49)
